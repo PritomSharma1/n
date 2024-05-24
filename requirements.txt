@@ -1,0 +1,11 @@
+phonenumbers==8.13.36
+pyaes==1.6.1
+pyasn1==0.6.0
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0
+Pyrogram==2.0.106
+PySocks==1.7.1
+python-dotenv==1.0.1
+rsa==4.9
+TgCrypto==1.2.5
