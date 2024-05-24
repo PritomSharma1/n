@@ -13,7 +13,7 @@ logging.basicConfig(level=logging.INFO)
 
 
 
-app: pyrogram.client.Client = Client("bot", api_hash=read_api_hash(), api_id=read_api_id(), bot_token='')
+app: pyrogram.client.Client = Client("bot", api_hash=read_api_hash(), api_id=read_api_id(), bot_token='6679477995:AAE6b9mBP_tZsO7gnh0Vp9ej6iTk2KPA3I8')
 
 Bot(app)
 
